@@ -1,4 +1,4 @@
-# AIB기수번호_Discussion
+# AIB14_Discussion
 
 https://github.com/codestates/AIB기수번호_discussion/discussions
 
